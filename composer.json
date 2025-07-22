@@ -1,0 +1,13 @@
+{
+    "name": "sahib/kafka-queue",
+    "description": "Kafka connector for microservices",
+    "require": {
+        "laravel/framework": "^8.50"
+    },
+    "authors": [
+        {
+            "name": "sahibsingh27aug",
+            "email": "39029231+SahibSinghBanga@users.noreply.github.com"
+        }
+    ]
+}
