@@ -1,5 +1,5 @@
 {
-    "name": "sahib/kafka-queue",
+    "name": "sahibsinghbanga/kafka-queue",
     "description": "Kafka connector for microservices",
     "require": {
         "laravel/framework": "^8.50"
